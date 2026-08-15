@@ -1,2 +1,6 @@
 
 venv/
+mysite/__pycache__/__init__.cpython-314.pyc
+mysite/__pycache__/settings.cpython-314.pyc
+mysite/__pycache__/urls.cpython-314.pyc
+mysite/__pycache__/wsgi.cpython-314.pyc
